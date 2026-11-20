@@ -18,6 +18,8 @@ I am a B.E. Computer Science and Engineering graduate (2026), interested in Pyth
 An AI-powered chatbot project integrating Google Calendar.
 
 Technologies: LLM, RAG, MCP, Python
+
+
 **Employee Attrition Prediction System**
 A machine learning application that analyzes employee data and predicts factors associated with employee attrition.
 
@@ -32,6 +34,8 @@ React.js · Spring Boot · PostgreSQL
 
 ## Professional Experience
 **HR Intern – Entrans Technologies Private Limited**
+
+
 ###Full Stack Development Intern-Gove Enterprises
 
 
