@@ -1,0 +1,19 @@
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+
+# Environment variables and secret keys
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Log files
+*.log
