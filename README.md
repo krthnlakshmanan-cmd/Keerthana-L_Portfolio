@@ -32,7 +32,7 @@ React.js · Spring Boot · PostgreSQL
 
 ## Professional Experience
 **HR Intern – Entrans Technologies Private Limited**
-Full Stack Development Intern-Gove Enterprises
+###Full Stack Development Intern-Gove Enterprises
 
 
 ## Contact
