@@ -1,19 +1,30 @@
-# Keerthana-L_Portfolio
-keerthana-portfolio/
-Repository root
 
- index.html
+# Keerthana Lakshmanan – Portfolio
 
- style.css
+Welcome to my personal portfolio!
 
- script.js
+## About Me
+I am a B.E. Computer Science and Engineering graduate (2026), interested in Python Development, Artificial Intelligence, and Backend Development.
 
- 
- assets/
+## Skills
+- Python
+- MySQL
+- FastAPI
+- Machine Learning
+- LLM and RAG
 
- Keerthana_B.E.pdf
+## Projects
+### AI ChatBot with Google Calendar Integration
+An AI-powered chatbot project integrating Google Calendar.
+
+Technologies: LLM, RAG, MCP, Python
+
+## Professional Experience
+**HR Intern – Entrans Technologies Private Limited**
+Full Stack Development Intern-Gove Enterprises
 
 
- images/
-
- Keerthana_coat Photo.jpeg
+## Contact
+- GitHub: https://github.com/krthnlakshmanan-cmd
+- LinkedIn: www.linkedin.com/in/keerthana-lakshmanan-
+- Portfolio: https://keerthanal-portfolio.vercel.app/
